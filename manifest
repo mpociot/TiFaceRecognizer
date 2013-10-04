@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: My module
+author: Marcel Pociot
+license: MIT
+copyright: Marcel Pociot
+
+
+# these should not be edited
+name: TiFaceRecognizer
+moduleid: de.marcelpociot.facerecognizer
+guid: 6538b307-5c7b-49cc-964c-91922c3a7b1b
+platform: iphone
+minsdk: 3.1.2.GA
