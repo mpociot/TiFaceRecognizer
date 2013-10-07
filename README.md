@@ -8,7 +8,7 @@ This module allows CoreImage face detection.
 
 Features
 ========
-* Detect images on a given image
+* Detect faces on a given image
 * Returns coordinates for left eye, right eye, mouth
 
 
