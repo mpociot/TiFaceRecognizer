@@ -33,3 +33,6 @@ ABOUT THE AUTHOR
 I'm a web enthusiast located in germany.
 
 Follow me on twitter: @marcelpociot
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mpociot/tifacerecognizer/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
