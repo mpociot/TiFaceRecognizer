@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>84C3CB5D-3632-43B1-B33B-A4D6A9928516</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TiFaceRecognizer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>881396C88273C18E650798B44E39CD1E3F72A525</key>
+		<string>github.com:mpociot/TiFaceRecognizer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TiFaceRecognizer.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>881396C88273C18E650798B44E39CD1E3F72A525</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:mpociot/TiFaceRecognizer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>881396C88273C18E650798B44E39CD1E3F72A525</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>881396C88273C18E650798B44E39CD1E3F72A525</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TiFaceRecognizer</string>
+		</dict>
+	</array>
+</dict>
+</plist>

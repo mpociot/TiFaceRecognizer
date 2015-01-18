@@ -2,7 +2,7 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 1.0
+version: 1.1.0
 apiversion: 2
 description: My module
 author: Marcel Pociot
@@ -15,4 +15,5 @@ name: TiFaceRecognizer
 moduleid: de.marcelpociot.facerecognizer
 guid: 6538b307-5c7b-49cc-964c-91922c3a7b1b
 platform: iphone
-minsdk: 3.1.2.GA
+minsdk: 3.4.0.GA
+architectures: armv7 arm64 i386 x86_64
